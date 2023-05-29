@@ -3,8 +3,9 @@
 	width: 200px;
 	height: 2px;
 	color: square black;
-	background: black;
+	background-color: rgb(0,0,0);
 	animation: rotate 3.5s linear infinite;
+	position: absolute;
 }
 .container{
 	width: 500px;
