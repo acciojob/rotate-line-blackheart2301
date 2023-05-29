@@ -2,7 +2,7 @@
 #line{
 	width: 200px;
 	height: 2px;
-	background-color: black;
+	background-color: white;
 	animation: rotate 1s linear infinite;
 }
 .container{
@@ -11,9 +11,9 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #e7e7e7;
+	background-color:white;
 }
  @keyframes rotate{
-	 from{ transform: roatate(0deg);}
+	 from{ transform: rotate(0deg);}
 	 to{ transform: rotate(360deg);}
  }
