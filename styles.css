@@ -2,7 +2,8 @@
 #line{
 	width: 200px;
 	height: 2px;
-	background-color: black;
+	
+	color: black;
 	animation: rotate 1s linear infinite;
 }
 .container{
