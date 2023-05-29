@@ -6,3 +6,4 @@ function showElement(){
 	div.id="line";
 	container.append(div);
 }
+showElement();
